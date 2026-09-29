@@ -1,16 +1,34 @@
-## Hi there 👋
+# Taiki Causton
 
-<!--
-**taiki34/taiki34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am studying for a Bachelor's Degree in Economics at Universitat Pompeu Fabra and following its Advanced Quantitative Methods track. I am currently an exchange student at Bocconi University, taking courses in Python programming, stochastic processes, empirical finance, and mathematical analysis. My interests are statistical modelling, forecasting, and applied machine learning.
 
-Here are some ideas to get you started:
+At UPF, I currently have an 8.5/10 GPA and rank 3rd in my cohort.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside university, I co-founded [IB Learn](https://iblearn.com), a Spanish-language learning platform used by more than 1,000 International Baccalaureate students.
+
+## Selected projects
+
+### Electricity demand forecasting
+
+Forecasted Spain's next-hour electricity demand using hourly energy and weather data, leakage-aware lag and rolling features, chronological validation, and eight model families. The best Random Forest achieved a test RMSE of 534.5 MWh, MAPE of 1.22%, and R-squared of 0.986, compared with 3,627.7 MWh RMSE for a seasonal-naive baseline.
+
+[View repository](https://github.com/taiki34/electricity-demand-forecasting)
+
+### Financial stress prediction
+
+Built a post-competition case study around 30-day liquidity-stress prediction from mobile-money activity. The work compares feature families, gradient-boosted models, out-of-fold validation, and probability calibration while keeping model selection separate from leaderboard evaluation.
+
+[View repository](https://github.com/taiki34/financial-stress-prediction-study)
+
+### Climate risk and health prediction
+
+Currently developing a grouped-validation approach for predicting climate-sensitive mortality across unseen villages. The code remains private while the Zindi competition is active.
+
+## Tools
+
+`Python` · `pandas` · `NumPy` · `scikit-learn` · `statsmodels` · `XGBoost` · `CatBoost` · `LightGBM` · `Matplotlib` · `R` · `Stata` · `Git`
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/taiki-causton)
+- [Email](mailto:taikicauston@gmail.com)
