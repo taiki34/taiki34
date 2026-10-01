@@ -16,9 +16,9 @@ Forecasted Spain's next-hour electricity demand using hourly energy and weather 
 
 ### Financial stress prediction
 
-Built a post-competition case study around 30-day liquidity-stress prediction from mobile-money activity. The work compares feature families, gradient-boosted models, out-of-fold validation, and probability calibration while keeping model selection separate from leaderboard evaluation.
+Placed 12th on the final leaderboard in the Zindi AI4EAC Liquidity Stress Early Warning Challenge, in a field of about 270 participants. Predicted 30-day liquidity stress from six months of mobile-money activity using gradient boosting, out-of-fold validation, feature engineering, and probability calibration.
 
-[View repository](https://github.com/taiki34/financial-stress-prediction-study)
+[Explore the financial-stress prediction study](https://github.com/taiki34/financial-stress-prediction-study)
 
 ### Climate risk and health prediction
 
